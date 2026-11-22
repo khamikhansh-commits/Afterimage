@@ -1,0 +1,1 @@
+window.__AF = { Store, Srv, App, AI, IDB, buildScene, renderStill, normalizeSpec, normalizeBrief, normalizeMemory, EXAMPLE_SPECS, SAMPLE_DAYS, samplePhoto, LAYOUTS, LAYOUT_KEYS, MOTIFS, measureColors, localBrief, salvageBrief, looseJson, buildBriefPrompt, mountArtwork, createMap, project, unproject, parseMusicLink, makeZip, tonePalette };
